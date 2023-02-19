@@ -13,10 +13,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.owlstake.com
   # baseUrl: /your-repo-name
-  logoUrl: https://github.com/owlstake/owlstake/blob/main/Logo_only.png
+  logoUrl: https://raw.githubusercontent.com/owlstake/owlstake/main/svg/logo-black.svg
   name: Owlstake Server Status
   introTitle: "Owlstake Server Status"
-  introMessage: You can check the uptime and maintenance schedule notifications for Owlstake's server and services here.
+  introMessage: "You can check the uptime and maintenance schedule notifications for Owlstake's server and services here."
   navbar:
     - title: Owlstake Server Status
       href: /
