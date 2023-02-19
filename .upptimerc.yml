@@ -6,7 +6,7 @@ sites:
     url: https://owlstake.com
   - name: owlstake Explorer
     url: https://explorer.owlstake.com
-  - name: owlstake Testnet Explore
+  - name: owlstake Testnet Explorer
     url: https://testnet.explorer.owlstake.com
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
