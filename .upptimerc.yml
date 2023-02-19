@@ -19,6 +19,8 @@ status-website:
   introTitle: "Owlstake Server Status"
   introMessage: "You can check the uptime and maintenance schedule notifications for Owlstake's server and services here."
   navbar:
+    - title: Home
+      href: https://owlstake.com
     - title: Owlstake Server Status
       href: /
 # Upptime also supports notifications, assigning issues, and more
