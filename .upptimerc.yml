@@ -14,6 +14,7 @@ status-website:
   cname: status.owlstake.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/owlstake/owlstake/main/svg/logo-black.svg
+  faviconSvg: https://raw.githubusercontent.com/owlstake/owlstake/main/svg/logo-black.svg
   name: Owlstake Server Status
   introTitle: "Owlstake Server Status"
   introMessage: "You can check the uptime and maintenance schedule notifications for Owlstake's server and services here."
