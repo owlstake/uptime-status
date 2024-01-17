@@ -4,18 +4,19 @@
     "url": "https://owlstake.com",
     "icon": "https://icons.duckduckgo.com/ip3/owlstake.com.ico",
     "slug": "owlstake-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 148,
-    "timeDay": 161,
-    "timeWeek": 110,
-    "timeMonth": 135,
-    "timeYear": 148,
+    "time": 151,
+    "timeDay": 669,
+    "timeWeek": 243,
+    "timeMonth": 168,
+    "timeYear": 151,
     "dailyMinutesDown": {
+      "2024-01-17": 0,
       "2023-11-02": 16
     }
   },
@@ -24,35 +25,39 @@
     "url": "https://explorer.owlstake.com",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.owlstake.com.ico",
     "slug": "owlstake-explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 56,
-    "timeWeek": 97,
-    "timeMonth": 105,
+    "timeDay": 126,
+    "timeWeek": 110,
+    "timeMonth": 108,
     "timeYear": 124,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   },
   {
     "name": "owlstake Testnet Explorer",
     "url": "https://testnet.explorer.owlstake.com",
     "icon": "https://icons.duckduckgo.com/ip3/testnet.explorer.owlstake.com.ico",
     "slug": "owlstake-testnet-explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 141,
-    "timeDay": 66,
-    "timeWeek": 94,
-    "timeMonth": 102,
+    "timeDay": 109,
+    "timeWeek": 101,
+    "timeMonth": 104,
     "timeYear": 141,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   }
 ]
