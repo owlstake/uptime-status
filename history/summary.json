@@ -24,19 +24,19 @@
     "url": "https://explorer.owlstake.com",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.owlstake.com.ico",
     "slug": "owlstake-explorer",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 145,
-    "timeWeek": 146,
-    "timeMonth": 131,
+    "timeDay": 113,
+    "timeWeek": 138,
+    "timeMonth": 130,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2024-06-23": 0
+      "2024-06-23": 23
     }
   },
   {
