@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 227,
-    "timeWeek": 227,
-    "timeMonth": 227,
-    "timeYear": 227,
+    "time": 235,
+    "timeDay": 250,
+    "timeWeek": 235,
+    "timeMonth": 235,
+    "timeYear": 235,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 190,
-    "timeDay": 190,
-    "timeWeek": 190,
-    "timeMonth": 190,
-    "timeYear": 190,
+    "time": 154,
+    "timeDay": 82,
+    "timeWeek": 154,
+    "timeMonth": 154,
+    "timeYear": 154,
     "dailyMinutesDown": {}
   },
   {
@@ -46,13 +46,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 124,
-    "timeDay": 124,
-    "timeWeek": 124,
-    "timeMonth": 124,
-    "timeYear": 124,
+    "time": 104,
+    "timeDay": 64,
+    "timeWeek": 104,
+    "timeMonth": 104,
+    "timeYear": 104,
     "dailyMinutesDown": {
-      "2024-06-24": 64,
+      "2024-06-25": 62,
+      "2024-06-24": 1440,
       "2024-06-23": 780
     }
   },
@@ -67,13 +68,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 115,
-    "timeDay": 115,
-    "timeWeek": 115,
-    "timeMonth": 115,
-    "timeYear": 115,
+    "time": 103,
+    "timeDay": 78,
+    "timeWeek": 103,
+    "timeMonth": 103,
+    "timeYear": 103,
     "dailyMinutesDown": {
-      "2024-06-24": 64,
+      "2024-06-25": 62,
+      "2024-06-24": 1440,
       "2024-06-23": 780
     }
   },
@@ -88,13 +90,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 51,
-    "timeDay": 51,
-    "timeWeek": 51,
-    "timeMonth": 51,
-    "timeYear": 51,
+    "time": 62,
+    "timeDay": 85,
+    "timeWeek": 62,
+    "timeMonth": 62,
+    "timeYear": 62,
     "dailyMinutesDown": {
-      "2024-06-24": 64,
+      "2024-06-25": 62,
+      "2024-06-24": 1440,
       "2024-06-23": 780
     }
   }
