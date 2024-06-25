@@ -2,15 +2,15 @@
 owner: owlstake # Your GitHub organization or username, where this repository lives
 repo: uptime-status # The name of this repository
 sites:
-  - name: Homepage
+  - name: Homepage https://owlstake.com
     url: https://owlstake.com
-  - name: Explorer
+  - name: Explorer https://explorer.owlstake.com
     url: https://explorer.owlstake.com
-  - name: Services
+  - name: Services https://services.owlstake.com
     url: https://services.owlstake.com
-  - name: Monitoring
+  - name: Monitoring https://tenderduty.owlstake.com
     url: https://tenderduty.owlstake.com
-  - name: Snapshots
+  - name: Snapshots https://snapshots.owlstake.com
     url: https://snapshots.owlstake.com
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
