@@ -10,8 +10,6 @@ sites:
     url: https://services.owlstake.com
   - name: Monitoring https://tenderduty.owlstake.com
     url: https://tenderduty.owlstake.com
-  - name: Snapshots https://snapshots.owlstake.com
-    url: https://snapshots.owlstake.com
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
