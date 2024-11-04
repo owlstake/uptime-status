@@ -4,19 +4,19 @@
     "url": "https://owlstake.com",
     "icon": "https://icons.duckduckgo.com/ip3/owlstake.com.ico",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 216,
-    "timeDay": 162,
-    "timeWeek": 173,
-    "timeMonth": 178,
+    "timeDay": 156,
+    "timeWeek": 170,
+    "timeMonth": 177,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2024-11-04": 0
+      "2024-11-04": 19
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://explorer.owlstake.com",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.owlstake.com.ico",
     "slug": "explorer",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 170,
-    "timeDay": 106,
-    "timeWeek": 119,
-    "timeMonth": 126,
+    "timeDay": 151,
+    "timeWeek": 128,
+    "timeMonth": 128,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2024-11-04": 0
+      "2024-11-04": 19
     }
   }
 ]
