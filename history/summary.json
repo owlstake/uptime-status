@@ -4,7 +4,7 @@
     "url": "https://owlstake.com",
     "icon": "https://icons.duckduckgo.com/ip3/owlstake.com.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 173,
     "timeMonth": 178,
     "timeYear": 216,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-04": 0
+    }
   },
   {
     "name": "Explorer",
     "url": "https://explorer.owlstake.com",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.owlstake.com.ico",
     "slug": "explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 119,
     "timeMonth": 126,
     "timeYear": 170,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-04": 0
+    }
   }
 ]
