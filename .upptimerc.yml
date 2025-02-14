@@ -36,12 +36,14 @@ sites:
     url: https://ssc-1-api.owlstake.com
     expectedStatusCodes:
       - 501
+      - 200
   - name: Seda RPC
     url: https://seda-1-rpc.owlstake.com
   - name: Seda API
     url: https://seda-1-api.owlstake.com
     expectedStatusCodes:
       - 501
+      - 200
   - name: Pell Testnet RPC
     url: https://ignite_186-1-rpc.owlstake.com
   - name: Pell Testnet API
@@ -54,6 +56,7 @@ sites:
     url: https://seda-1-testnet-api.owlstake.com
     expectedStatusCodes:
       - 501
+      - 200
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
