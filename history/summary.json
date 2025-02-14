@@ -207,19 +207,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssc-1-api.owlstake.com.ico",
     "slug": "saga-api",
     "status": "up",
-    "uptime": "74.60%",
-    "uptimeDay": "74.60%",
-    "uptimeWeek": "74.60%",
-    "uptimeMonth": "74.60%",
-    "uptimeYear": "74.60%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 786,
     "timeDay": 786,
     "timeWeek": 786,
     "timeMonth": 786,
     "timeYear": 786,
-    "dailyMinutesDown": {
-      "2025-02-14": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Seda RPC",
@@ -245,19 +243,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/seda-1-api.owlstake.com.ico",
     "slug": "seda-api",
     "status": "up",
-    "uptime": "74.53%",
-    "uptimeDay": "74.53%",
-    "uptimeWeek": "74.53%",
-    "uptimeMonth": "74.53%",
-    "uptimeYear": "74.53%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 633,
     "timeDay": 633,
     "timeWeek": 633,
     "timeMonth": 633,
     "timeYear": 633,
-    "dailyMinutesDown": {
-      "2025-02-14": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pell Testnet RPC",
@@ -319,18 +315,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/seda-1-testnet-api.owlstake.com.ico",
     "slug": "seda-testnet-api",
     "status": "up",
-    "uptime": "74.50%",
-    "uptimeDay": "74.50%",
-    "uptimeWeek": "74.50%",
-    "uptimeMonth": "74.50%",
-    "uptimeYear": "74.50%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 609,
     "timeDay": 609,
     "timeWeek": 609,
     "timeMonth": 609,
     "timeYear": 609,
-    "dailyMinutesDown": {
-      "2025-02-14": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
