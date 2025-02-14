@@ -10,34 +10,50 @@ sites:
     url: https://shentu-rpc.owlstake.com
   - name: Shentu API
     url: https://shentu-api.owlstake.com
+    expectedStatusCodes:
+      - 501
   - name: Aura RPC
     url: https://aura_6322-2-rpc.owlstake.com
   - name: Aura API
     url: https://aura_6322-2-api.owlstake.com
+    expectedStatusCodes:
+      - 501
   - name: Atom-1 RPC
     url: https://atomone-1-rpc.owlstake.com
   - name: Atom-1 API
     url: https://atomone-1-api.owlstake.com
+    expectedStatusCodes:
+      - 501
   - name: Dymension RPC
     url: https://dymension_1100-1-rpc.owlstake.com
   - name: Dymension API
     url: https://dymension_1100-1-api.owlstake.com
+    expectedStatusCodes:
+      - 501
   - name: Saga RPC
     url: https://ssc-1-rpc.owlstake.com
   - name: Saga API
     url: https://ssc-1-api.owlstake.com
+    expectedStatusCodes:
+      - 501
   - name: Seda RPC
     url: https://seda-1-rpc.owlstake.com
   - name: Seda API
     url: https://seda-1-api.owlstake.com
+    expectedStatusCodes:
+      - 501
   - name: Pell Testnet RPC
     url: https://ignite_186-1-rpc.owlstake.com
   - name: Pell Testnet API
     url: https://ignite_186-1-api.owlstake.com
+    expectedStatusCodes:
+      - 501
   - name: Seda Testnet RPC
     url: https://seda-1-testnet-rpc.owlstake.com
   - name: Seda Testnet API
     url: https://seda-1-testnet-api.owlstake.com
+    expectedStatusCodes:
+      - 501
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
