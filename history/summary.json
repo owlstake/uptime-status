@@ -292,35 +292,39 @@
     "url": "https://seda-1-testnet-rpc.owlstake.com",
     "icon": "https://icons.duckduckgo.com/ip3/seda-1-testnet-rpc.owlstake.com.ico",
     "slug": "seda-testnet-rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 673,
-    "timeDay": 700,
-    "timeWeek": 655,
-    "timeMonth": 673,
-    "timeYear": 673,
-    "dailyMinutesDown": {}
+    "time": 666,
+    "timeDay": 641,
+    "timeWeek": 646,
+    "timeMonth": 666,
+    "timeYear": 666,
+    "dailyMinutesDown": {
+      "2025-02-23": 0
+    }
   },
   {
     "name": "Seda Testnet API",
     "url": "https://seda-1-testnet-api.owlstake.com",
     "icon": "https://icons.duckduckgo.com/ip3/seda-1-testnet-api.owlstake.com.ico",
     "slug": "seda-testnet-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 657,
-    "timeDay": 750,
-    "timeWeek": 683,
-    "timeMonth": 657,
-    "timeYear": 657,
-    "dailyMinutesDown": {}
+    "time": 652,
+    "timeDay": 671,
+    "timeWeek": 671,
+    "timeMonth": 652,
+    "timeYear": 652,
+    "dailyMinutesDown": {
+      "2025-02-23": 0
+    }
   }
 ]
