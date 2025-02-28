@@ -58,18 +58,20 @@
     "url": "https://shentu-api.owlstake.com",
     "icon": "https://icons.duckduckgo.com/ip3/shentu-api.owlstake.com.ico",
     "slug": "shentu-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 759,
-    "timeDay": 603,
-    "timeWeek": 731,
-    "timeMonth": 759,
-    "timeYear": 759,
-    "dailyMinutesDown": {}
+    "time": 758,
+    "timeDay": 674,
+    "timeWeek": 733,
+    "timeMonth": 758,
+    "timeYear": 758,
+    "dailyMinutesDown": {
+      "2025-02-28": 0
+    }
   },
   {
     "name": "Aura RPC",
