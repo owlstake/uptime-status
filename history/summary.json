@@ -40,19 +40,19 @@
     "url": "https://shentu-rpc.owlstake.com",
     "icon": "https://icons.duckduckgo.com/ip3/shentu-rpc.owlstake.com.ico",
     "slug": "shentu-rpc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 706,
-    "timeDay": 808,
-    "timeWeek": 721,
+    "timeDay": 783,
+    "timeWeek": 722,
     "timeMonth": 706,
     "timeYear": 706,
     "dailyMinutesDown": {
-      "2025-03-10": 1
+      "2025-03-10": 14
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://shentu-api.owlstake.com",
     "icon": "https://icons.duckduckgo.com/ip3/shentu-api.owlstake.com.ico",
     "slug": "shentu-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 958,
-    "timeDay": 3802,
-    "timeWeek": 1490,
-    "timeMonth": 958,
-    "timeYear": 958,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 951,
+    "timeDay": 2774,
+    "timeWeek": 1404,
+    "timeMonth": 951,
+    "timeYear": 951,
     "dailyMinutesDown": {
-      "2025-03-10": 0
+      "2025-03-10": 13
     }
   },
   {
