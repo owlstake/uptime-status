@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/shentu-rpc.owlstake.com.ico",
     "slug": "shentu-rpc",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 706,
     "timeDay": 783,
     "timeWeek": 722,
     "timeMonth": 706,
     "timeYear": 706,
-    "dailyMinutesDown": {
-      "2025-03-10": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shentu API",
@@ -61,55 +59,57 @@
     "icon": "https://icons.duckduckgo.com/ip3/shentu-api.owlstake.com.ico",
     "slug": "shentu-api",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 951,
     "timeDay": 2774,
     "timeWeek": 1404,
     "timeMonth": 951,
     "timeYear": 951,
-    "dailyMinutesDown": {
-      "2025-03-10": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Aura RPC",
     "url": "https://aura_6322-2-rpc.owlstake.com",
     "icon": "https://icons.duckduckgo.com/ip3/aura_6322-2-rpc.owlstake.com.ico",
     "slug": "aura-rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 782,
-    "timeDay": 882,
-    "timeWeek": 746,
-    "timeMonth": 782,
-    "timeYear": 782,
-    "dailyMinutesDown": {}
+    "time": 785,
+    "timeDay": 869,
+    "timeWeek": 760,
+    "timeMonth": 785,
+    "timeYear": 785,
+    "dailyMinutesDown": {
+      "2025-03-10": 0
+    }
   },
   {
     "name": "Aura API",
     "url": "https://aura_6322-2-api.owlstake.com",
     "icon": "https://icons.duckduckgo.com/ip3/aura_6322-2-api.owlstake.com.ico",
     "slug": "aura-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 748,
-    "timeDay": 854,
-    "timeWeek": 760,
-    "timeMonth": 748,
-    "timeYear": 748,
-    "dailyMinutesDown": {}
+    "time": 750,
+    "timeDay": 836,
+    "timeWeek": 767,
+    "timeMonth": 750,
+    "timeYear": 750,
+    "dailyMinutesDown": {
+      "2025-03-10": 0
+    }
   },
   {
     "name": "Atom-1 RPC",
