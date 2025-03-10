@@ -76,19 +76,19 @@
     "url": "https://aura_6322-2-rpc.owlstake.com",
     "icon": "https://icons.duckduckgo.com/ip3/aura_6322-2-rpc.owlstake.com.ico",
     "slug": "aura-rpc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 785,
-    "timeDay": 869,
-    "timeWeek": 760,
-    "timeMonth": 785,
-    "timeYear": 785,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 778,
+    "timeDay": 779,
+    "timeWeek": 742,
+    "timeMonth": 778,
+    "timeYear": 778,
     "dailyMinutesDown": {
-      "2025-03-10": 0
+      "2025-03-10": 20
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://aura_6322-2-api.owlstake.com",
     "icon": "https://icons.duckduckgo.com/ip3/aura_6322-2-api.owlstake.com.ico",
     "slug": "aura-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 750,
-    "timeDay": 836,
-    "timeWeek": 767,
-    "timeMonth": 750,
-    "timeYear": 750,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 745,
+    "timeDay": 762,
+    "timeWeek": 750,
+    "timeMonth": 745,
+    "timeYear": 745,
     "dailyMinutesDown": {
-      "2025-03-10": 0
+      "2025-03-10": 20
     }
   },
   {
