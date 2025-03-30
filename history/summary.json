@@ -40,19 +40,19 @@
     "url": "https://shentu-rpc.owlstake.com",
     "icon": "https://icons.duckduckgo.com/ip3/shentu-rpc.owlstake.com.ico",
     "slug": "shentu-rpc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 725,
-    "timeDay": 748,
-    "timeWeek": 765,
-    "timeMonth": 741,
-    "timeYear": 725,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 724,
+    "timeDay": 716,
+    "timeWeek": 755,
+    "timeMonth": 738,
+    "timeYear": 724,
     "dailyMinutesDown": {
-      "2025-03-30": 0
+      "2025-03-30": 11
     }
   },
   {
