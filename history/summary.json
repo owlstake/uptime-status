@@ -40,18 +40,20 @@
     "url": "https://shentu-rpc.owlstake.com",
     "icon": "https://icons.duckduckgo.com/ip3/shentu-rpc.owlstake.com.ico",
     "slug": "shentu-rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 724,
-    "timeDay": 741,
-    "timeWeek": 766,
-    "timeMonth": 740,
-    "timeYear": 724,
-    "dailyMinutesDown": {}
+    "time": 725,
+    "timeDay": 748,
+    "timeWeek": 765,
+    "timeMonth": 741,
+    "timeYear": 725,
+    "dailyMinutesDown": {
+      "2025-03-30": 0
+    }
   },
   {
     "name": "Shentu API",
@@ -67,7 +69,7 @@
     "time": 868,
     "timeDay": 675,
     "timeWeek": 725,
-    "timeMonth": 920,
+    "timeMonth": 931,
     "timeYear": 868,
     "dailyMinutesDown": {
       "2025-03-26": 17
