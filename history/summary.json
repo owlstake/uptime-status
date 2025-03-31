@@ -190,19 +190,19 @@
     "url": "https://ssc-1-rpc.owlstake.com",
     "icon": "https://icons.duckduckgo.com/ip3/ssc-1-rpc.owlstake.com.ico",
     "slug": "saga-rpc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 703,
-    "timeDay": 689,
-    "timeWeek": 717,
-    "timeMonth": 728,
-    "timeYear": 703,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 705,
+    "timeDay": 719,
+    "timeWeek": 724,
+    "timeMonth": 729,
+    "timeYear": 705,
     "dailyMinutesDown": {
-      "2025-03-31": 0
+      "2025-03-31": 11
     }
   },
   {
@@ -210,19 +210,19 @@
     "url": "https://ssc-1-api.owlstake.com",
     "icon": "https://icons.duckduckgo.com/ip3/ssc-1-api.owlstake.com.ico",
     "slug": "saga-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 718,
-    "timeDay": 663,
-    "timeWeek": 742,
-    "timeMonth": 725,
-    "timeYear": 718,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 720,
+    "timeDay": 718,
+    "timeWeek": 752,
+    "timeMonth": 729,
+    "timeYear": 720,
     "dailyMinutesDown": {
-      "2025-03-31": 0
+      "2025-03-31": 11
     }
   },
   {
