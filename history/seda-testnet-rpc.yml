@@ -1,7 +1,7 @@
 url: https://seda-1-testnet-rpc.owlstake.com
-status: up
-code: 200
-responseTime: 788
-lastUpdated: 2025-05-05T23:20:19.127Z
+status: down
+code: 502
+responseTime: 589
+lastUpdated: 2025-05-06T14:14:45.055Z
 startTime: 2025-02-14T10:50:55.514Z
 generator: Upptime <https://github.com/upptime/upptime>
