@@ -1,7 +1,7 @@
 url: https://dymension_1100-1-api.owlstake.com
-status: up
-code: 501
-responseTime: 2089
-lastUpdated: 2026-03-06T11:59:06.491Z
+status: down
+code: 503
+responseTime: 5360
+lastUpdated: 2026-03-06T13:15:47.135Z
 startTime: 2025-02-14T10:50:45.144Z
 generator: Upptime <https://github.com/upptime/upptime>
