@@ -1,7 +1,7 @@
 url: https://seda-1-api.owlstake.com
-status: up
-code: 501
-responseTime: 1776
-lastUpdated: 2026-07-13T00:00:49.555Z
+status: down
+code: 503
+responseTime: 40558
+lastUpdated: 2026-07-13T19:59:00.745Z
 startTime: 2025-02-14T10:50:51.094Z
 generator: Upptime <https://github.com/upptime/upptime>
