@@ -1,7 +1,7 @@
 url: https://atomone-1-rpc.owlstake.com
-status: up
-code: 200
-responseTime: 7298
-lastUpdated: 2026-07-12T23:59:19.618Z
+status: down
+code: 503
+responseTime: 45362
+lastUpdated: 2026-07-13T19:50:38.071Z
 startTime: 2025-02-14T10:50:40.324Z
 generator: Upptime <https://github.com/upptime/upptime>
